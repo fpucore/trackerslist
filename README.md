@@ -1,4 +1,4 @@
-![The Pirate Bay](https://www.qanonsec.com/images/upload/2024/08/29/20240829073355-9a27c889.png)
+![The Pirate Bay](https://www.qanonsec.com/images/i.php?/upload/2024/08/29/20240829073355-9a27c889-sm.png)
 
 # fpucore/trackerslist
 [![Last update](https://img.shields.io/badge/Last%20update-2024/09/02-red.svg)](#)
