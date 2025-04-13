@@ -22,3 +22,7 @@ chrisjones.unixmen@gmail.com
 
 ### Forked from
 ngosang/trackerslist:master
+
+### Recommended BitTorrent client
+Tixati
+https://www.tixati.com/ => [link](https://www.tixati.com/)
