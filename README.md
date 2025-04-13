@@ -24,4 +24,4 @@ chrisjones.unixmen@gmail.com
 ngosang/trackerslist:master
 
 ### Recommended BitTorrent client
-Tixati (https://www.tixati.com/)
+Tixati https://www.tixati.com/
