@@ -1,7 +1,7 @@
 ![The Pirate Bay](https://www.qanonsec.com/images/i.php?/upload/2024/08/29/20240829073355-9a27c889-sm.png)
 
 # fpucore/trackerslist
-[![Last update](https://img.shields.io/badge/Last%20update-2025/03/15-red.svg)](#)
+[![Last update](https://img.shields.io/badge/Last%20update-2025/04/13-red.svg)](#)
 
 Updated list of public BitTorrent trackers
 
